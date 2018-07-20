@@ -75,7 +75,7 @@ class EditProfile extends Component {
       location: this.state.location,
       status: this.state.status,
       skills: this.state.skills,
-      githubUsername: this.state.githubusername,
+      githubUsername: this.state.githubUsername,
       bio: this.state.bio,
       twitter: this.state.twitter,
       facebook: this.state.facebook,
